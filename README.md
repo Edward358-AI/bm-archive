@@ -4,5 +4,7 @@ Note: if copying pasting into google URL bar, type `javascript:` (with colon), b
 
 
 Made by Edward Jiang
+
 For StopGuardian
+
 https://sites.google.com/pleasantonusd.net/stopguardian-official/download-stopguardian
